@@ -47,7 +47,7 @@ const About = () => {
       <div className="flex  sm:flex-col lg:flex-row justify-between items-center py-8 ">
        {/* <!--left part--> */}
        <div className="space-y-2 ml-14">
-           <h1 className="font-mullish font-bold text-[40px] leading-[1.2] text-black">Why Jivan </h1>
+           <h1 className="font-mullish font-bold text-[40px] leading-[1.2] text-black">Why JivanButi </h1>
            <div className="">
             <p className="font-mullish text-[18px] leading-7 text-black opacity-70 ">
             Buti is revolutionizing healthcare access through telemedicine technology. Our platform offers convenient virtual consultations, eliminating geographical barriers and reducing the costs associated with traditional healthcare visits. With a focus on quality care, privacy, and security, Sehat connects users with experienced healthcare providers who deliver personalized medical advice and treatment recommendations. Our innovative approach empowers individuals to take control of their health journey while making a positive impact on underserved communities. Join us in creating a healthier, more connected world with TeleMediConnect.
