@@ -15,7 +15,7 @@ JivanButi aims to bridge healthcare gaps in remote Indian communities. By levera
 
 ## Unique Selling Propositions (USPs) 🌟
 
-- **Underserved Community Focus**: SehatSathi is specifically designed to cater to the needs of India's underserved communities, ensuring equitable access to healthcare for all.
+- **Underserved Community Focus**: JivanButi is specifically designed to cater to the needs of India's underserved communities, ensuring equitable access to healthcare for all.
 - **Doctor-to-Doctor Connect**: Facilitate communication and collaboration among healthcare professionals for better treatment opportunities, enabling a multidisciplinary approach to patient care.
 - **Root Level Consultation via Ayurvedic Medicine Curation**: Provide consultations rooted in traditional Ayurvedic medicine curated by experts, available in local languages, with a comprehensive database covering 150+ diseases.
 - **Built-in Chat Bot Support**: Access instant assistance and answers to common healthcare queries through our integrated chat bot feature.
