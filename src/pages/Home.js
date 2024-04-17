@@ -1,6 +1,6 @@
 import React from 'react'
 
-import bg from '../assets/front.png'
+import bg from '../assets/herbs.jpg'
 import leftimg from '../assets/High Five transition for the latest project.gif'
 import rightimg from '../assets/back-left-4.jpeg'
 import ChatBox from '../components/ChatBox'
