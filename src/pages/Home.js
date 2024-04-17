@@ -20,7 +20,7 @@ const Home = ({isLoggedIn}) => {
             <div className='absolute  '>
               <h1 className='text-black font-serif font-bold text-[40px] left-[10px] top-[-550px] relative'>Unlock the Power of Telemedicine Wisdom</h1>
               <br></br>
-              <h1 className='text-black text-center font-bold text-[25px] left-[50px] top-[-550px] relative'>Your Personalized Ayurvedic Healthcare Companion</h1>
+              <h1 className='text-black text-center font-bold text-[25px] left-[30px] top-[-550px] relative'>Your Personalized Ayurvedic Healthcare Companion</h1>
               <Link to="https://ayurtech.streamlit.app/" target='_blank'>
                     <button className=' bg-richblack-800 text-white text-bold py-[10px] 
                     px-[18px] rounded-[8px] border border-richblack-700 relative top-[-500px] left-[150px]'>
