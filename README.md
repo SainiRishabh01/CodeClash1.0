@@ -50,7 +50,7 @@ JivanButi aims to bridge healthcare gaps in remote Indian communities. By levera
 
 The development of JivanButi provided invaluable insights into the intersection of healthcare and technology. We deepened our understanding of the challenges and complexities involved in delivering telehealth services, including navigating regulatory requirements and ethical considerations.
 
-## What's next for SehatSathi 🔮
+## What's next for JivanButi 🔮
 
 Our roadmap includes:
 
