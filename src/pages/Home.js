@@ -23,26 +23,26 @@ const Home = ({isLoggedIn}) => {
               <h1 className='text-black text-center font-bold text-[25px] left-[10px] top-[-550px] relative'>Your Personalized Ayurvedic Healthcare Companion</h1>
               <Link to="https://ayurtech.streamlit.app/" target='_blank'>
                     <button className=' bg-richblack-800 text-white text-bold py-[10px] 
-                    px-[18px] rounded-[8px] border border-richblack-700 relative top-[-500px] left-[150px]'>
+                    px-[18px] rounded-[8px] border border-richblack-700 relative top-[-500px] left-[100px]'>
                         Browse Herbs
                     </button>
             </Link>
             <Link to="https://sehat-commitandpush.netlify.app" target='_blank'>
                     <button className=' bg-richblack-800 text-white text-bold py-[10px] 
-                    px-[18px] rounded-[8px] border border-richblack-700 relative top-[-500px] left-[200px]'>
+                    px-[18px] rounded-[8px] border border-richblack-700 relative top-[-500px] left-[150px]'>
                         Get Your Checkup Done
                     </button>
             </Link>
             
             <Link to="https://sfu.mirotalk.com/join/70797BrownGhost" target='_blank'>
                     <button className='mx-2 bg-richblack-800 text-white text-bold py-[10px] 
-                    px-[18px] rounded-[8px] border border-richblack-700 relative top-[-500px] left-[250px]'>
+                    px-[18px] rounded-[8px] border border-richblack-700 relative top-[-500px] left-[200px]'>
                         Create Meeting
                     </button>
             </Link>
      <Link to="https://65d8c3fdb91d7c2115a1dcfa--charming-swan-726988.netlify.app/" target='_blank'>
                     <button className=' bg-richblack-800 text-white text-bold py-[10px] 
-                    px-[18px] rounded-[8px] border border-richblack-700 relative top-[-500px] left-[150px]'>
+                    px-[18px] rounded-[8px] border border-richblack-700 relative top-[-500px] left-[250px]'>
                         ML Models
                     </button>
             </Link>
