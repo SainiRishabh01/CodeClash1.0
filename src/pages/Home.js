@@ -16,7 +16,7 @@ const Home = ({isLoggedIn}) => {
     <div>
 
         <div className="relative ml-72">   
-            <img src={bg} className='w-[1000px]' />
+            <img src={bg} className='w-[900px]' />
             <div className='absolute  '>
               <h1 className='text-black font-serif font-bold text-[40px] left-[10px] top-[-550px] relative'>Unlock the Power of Telemedicine Wisdom</h1>
               <br></br>
