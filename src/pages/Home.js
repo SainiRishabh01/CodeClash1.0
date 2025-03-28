@@ -43,7 +43,7 @@ const Home = ({isLoggedIn}) => {
      <Link to="https://65d8c3fdb91d7c2115a1dcfa--charming-swan-726988.netlify.app/" target='_blank'>
                     <button className=' bg-richblack-800 text-white text-bold py-[10px] 
                     px-[18px] rounded-[8px] border border-richblack-700 relative top-[-500px] left-[250px]'>
-                        ML Models
+                        Risk Factor
                     </button>
             </Link>
             </div>
